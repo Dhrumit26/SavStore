@@ -1,5 +1,6 @@
 # SavStore
-![p](https://github.com/user-attachments/assets/5a508e6f-fa93-4ff8-8849-6da331ab3bec){width=500}
+<img src="https://github.com/user-attachments/assets/5a508e6f-fa93-4ff8-8849-6da331ab3bec" alt="p" width="500">
+
 
 ## Storage and File Sharing Platform
 
